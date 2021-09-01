@@ -28,7 +28,7 @@ if (x) {
     Empty string : false , any string including white space called truth 
     if included string any number called truth - "0", "false"
 */
-const x = " ";
+const x = ' ';
 if (x) {
     console.log("variable is truth");
 } else {
